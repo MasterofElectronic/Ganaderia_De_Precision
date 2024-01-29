@@ -8,7 +8,7 @@ Presentamos "Ganaderia de precisión AI", una solución pionera que revoluciona 
 
 ### 1. Base de Datos
 
-- **Nombre del Archivo:** `nombre_de_archivo.extensión`
+- **Nombre del Archivo:** `base_datos.py`
 - **Descripción:** Los integrantes del proyecto crearon esta base de datos al tomar fotografías en diversas zonas seleccionadas previamente. Utilizando un dron, se capturaron 1546 imágenes, las cuales fueron etiquetadas y divididas posteriormente en conjuntos de train, validation y test. Es importante destacar que este dataset tiene un tamaño de aproximadamente 7 GB, por lo tanto, se proporciona un enlace en el archivo de la base de datos para su descarga.
 
 ### 2. Algoritmos y Código
