@@ -30,4 +30,4 @@ Explica cómo usar y ejecutar tu proyecto paso a paso.
 ## Autores
 - Andres Felipe Araque
 - Sergio Andres Angarita
-- Jhonathan Alexander Murcia
+- Jhonathan Alexsander Murcia
