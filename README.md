@@ -1,6 +1,6 @@
   ![./Ganaderia.gif](./Ganaderia.gif)
 
-#Implementation of Drones in Precision Livestock Farming for Animal Counting and Tracking.
+# Implementation of Drones in Precision Livestock Farming for Animal Counting and Tracking.
 
 Introducing "AI Precision Livestock Farming," a pioneering solution that revolutionizes livestock management by counting cattle through aerial imagery. Facing low technological adoption due to high costs, our proposal integrates drones and an artificial intelligence model to offer accurate counting, efficiency, and cost reduction. Targeted at livestock farmers, AI Precision Livestock Farming not only transforms the way we count livestock but also alleviates financial burden, optimizes management, and lays the groundwork for a more sustainable future in the livestock industry. Join the revolution!
 
