@@ -1,17 +1,19 @@
   ![./Ganaderia.gif](./Ganaderia.gif)
 
-# Implementación de Drones en la Ganadería de Precisión para el Conteo y Seguimiento de Animales.
+#Implementation of Drones in Precision Livestock Farming for Animal Counting and Tracking.
 
-Presentamos "Ganaderia de precisión AI", una solución pionera que revoluciona la gestión ganadera al contar vacunos mediante imágenes aéreas. Enfrentando la baja adopción tecnológica debido a costos elevados, nuestra propuesta integra drones y un modelo de inteligencia artificial para ofrecer conteo preciso, eficiencia y reducción de costos. Dirigido a ganaderos, Ganaderia de precisión AI no solo transforma la forma en que contamos ganado, sino que también alivia la carga financiera, optimiza la gestión y sienta las bases para un futuro más sostenible en la industria ganadera. ¡Únete a la revolución!
+Introducing "AI Precision Livestock Farming," a pioneering solution that revolutionizes livestock management by counting cattle through aerial imagery. Facing low technological adoption due to high costs, our proposal integrates drones and an artificial intelligence model to offer accurate counting, efficiency, and cost reduction. Targeted at livestock farmers, AI Precision Livestock Farming not only transforms the way we count livestock but also alleviates financial burden, optimizes management, and lays the groundwork for a more sustainable future in the livestock industry. Join the revolution!
 
-## Contenido del repositorio
+## Repository Contents
 
-### 1. Base de Datos
+### 1. Database
 
-- **Nombre del Archivo:** `base_datos.py`
-- **Descripción:** Los integrantes del proyecto crearon esta base de datos al tomar fotografías en diversas zonas seleccionadas previamente. Utilizando un dron, se capturaron 1546 imágenes, las cuales fueron etiquetadas y divididas posteriormente en conjuntos de train, validation y test. Es importante destacar que este dataset tiene un tamaño de aproximadamente 7 GB, por lo tanto, se proporciona un enlace en el archivo de la base de datos para su descarga.
+- **File Name:** `base_datos.py`
+- *Description** 
+The project members created this database by taking photographs in various pre-selected areas. Using a drone, 1546 images were captured, which were then labeled and divided into train, validation, and test sets. It is important to note that this dataset has a size of approximately 7 GB, therefore, a link to download the database is provided within the file.
 
-### 2. Algoritmos y Código
+
+### 2. Algorithms and Code
 
 - **Directorio:** `algoritmos/`
 - **Descripción:** Explicación general de los algoritmos utilizados.
