@@ -9,7 +9,7 @@ Introducing "AI Precision Livestock Farming," a pioneering solution that revolut
 ### 1. Database
 
 - **File Name:** `base_datos.py`
-- *Description** 
+- **Description** 
 The project members created this database by taking photographs in various pre-selected areas. Using a drone, 1546 images were captured, which were then labeled and divided into train, validation, and test sets. It is important to note that this dataset has a size of approximately 7 GB, therefore, a link to download the database is provided within the file.
 
 
