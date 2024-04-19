@@ -15,18 +15,24 @@ The project members created this database by taking photographs in various pre-s
 
 ### 2. Algorithms and Code
 
-- **Directory:** `algoritmos/`
-- **Description:** Explicación general de los algoritmos utilizados.
-- **Execution Instructions:** Pasos claros para ejecutar el código. Puedes incluir dependencias y requisitos del entorno.
+- **Directory:** `algoritmos prueba ` `models `
+- **Description:** In the  `algoritmos prueba ` folder, there are several Colab files containing tests conducted throughout the project, culminating in the two final models. These final models are located in this repository under the names `modelm_yolov8_ganaderia.ipynb` and `modelm_yolov8_ganaderia.ipynb`. Additionally, there is one last file containing results using the selected final model (Yolo V8m), named `Precision_cattle_model_test.ipynb`.
+
+Within the folder named `models `, the final model is available in different formats such as ONX, TFLite, and PyTorch. Furthermore, concerning the algorithms, this repository includes some used to evaluate the selected model, including each of the 5 folds used to assess its performance, along with the file `val_test.ipynb`.
 
 ### 3. Project Structure
 
-- **Folder Structure:** Breve descripción de cómo está organizado el proyecto en el repositorio.
+- **Folder Structure:** 
+The repository contains files that include the database used to train the model, as well as each of the algorithms used to train and validate the models. Additionally, tests were conducted to support the selection of the Yolo V8 m model, which will subsequently be used for the mobile application developed during this project. To access the application repository, please use the following link: 
 
 ## Usage Instructions
 
-Explica cómo usar y ejecutar tu proyecto paso a paso.
-
+To use the final project, follow these steps:
+- Fly over the area containing the cows to be counted and take a photograph in which the cows are visible.
+- Export the image from the drone control application to the phone's gallery.
+- Open the application developed during this project and import the image from the phone's gallery, selecting the "select image" option.
+- From the application, select the "Upload image" option.
+- Finally, select "process image", which will return the image with the location of the cows, as well as the number of cows in the image.
 
 
 ## Authors
